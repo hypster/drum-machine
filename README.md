@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo link:
+[https://hypster.github.io/drum-machine/](https://hypster.github.io/drum-machine/)
 
 ## Available Scripts
 
